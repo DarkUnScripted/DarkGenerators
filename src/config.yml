@@ -1,0 +1,65 @@
+settings:
+  messages:
+    joinmessage: "&7[&a+&7] &b<player>"
+
+  toggles:
+    max-per-player: true
+    amount-per-player: 25
+    disable-default-joinmessage: true
+
+generators:
+  cobble:
+    name: "&aCobble Generator"
+    dropitem: COBBLESTONE
+    blockitem: COBBLESTONE
+
+  coal:
+    name: "&aCoal Generator"
+    dropitem: COAL
+    blockitem: COAL_BLOCK
+
+  iron:
+    name: "&aIron Generator"
+    dropitem: IRON_INGOT
+    blockitem: IRON_BLOCK
+
+  gold:
+    name: "&aGold Generator"
+    dropitem: GOLD_INGOT
+    blockitem: GOLD_BLOCK
+
+  lapis:
+    name: "&aLapis Generator"
+    dropitem: INK_SACK
+    data: 4
+    blockitem: LAPIS_BLOCK
+
+  redstone:
+    name: "&aRedstone Generator"
+    dropitem: REDSTONE
+    blockitem: REDSTONE_BLOCK
+
+  diamond:
+    name: "&aDiamond Generator"
+    dropitem: DIAMOND
+    blockitem: DIAMOND_BLOCK
+
+  emerald:
+    name: "&aEmerald Generator"
+    dropitem: EMERALD
+    blockitem: EMERALD_BLOCK
+
+  obisidian:
+    name: "&aObisidian Generator"
+    dropitem: OBSIDIAN
+    blockitem: OBSIDIAN
+
+  quartz:
+    name: "&aQuartz Generator"
+    dropitem: QUARTZ
+    blockitem: QUARTZ_BLOCK
+
+  beacon:
+    name: "&aStar Generator"
+    dropitem: NETHER_STAR
+    blockitem: BEACON

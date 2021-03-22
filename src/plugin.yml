@@ -1,0 +1,9 @@
+name: DarkGenerators
+version: 1.0.0
+main: net.darkunscripted.DarkGenerators.Main
+author: DarkUnScripted#1001
+
+commands:
+  generator:
+    alias: ["gen", "gens", "generators"]
+    description: main generator command.
